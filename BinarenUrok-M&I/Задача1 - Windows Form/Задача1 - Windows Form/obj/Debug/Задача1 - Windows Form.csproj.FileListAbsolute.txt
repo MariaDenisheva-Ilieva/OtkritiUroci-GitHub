@@ -1,0 +1,30 @@
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe.config
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.pdb
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.AssemblyReference.cache
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Form1.resources
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Properties.Resources.resources
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.GenerateResource.cache
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.CoreCompileInputs.cache
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\Задачи Тасева-4.11.2024 - ПОСЛЕДНО\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.pdb
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe.config
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.pdb
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.AssemblyReference.cache
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Form1.resources
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Properties.Resources.resources
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.GenerateResource.cache
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.CoreCompileInputs.cache
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\Задачи - Вили- 11.11.2024г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.pdb
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe.config
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\bin\Debug\Задача1 - Windows Form.pdb
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.AssemblyReference.cache
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Form1.resources
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1___Windows_Form.Properties.Resources.resources
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.GenerateResource.cache
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.csproj.CoreCompileInputs.cache
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.exe
+D:\GIMNAZIA-2024-2025g\БИНАРЕН УРОК-МАТЕМАТИКА ИНФОРМАТИКА - 11.12.2024Г\Задача1 - Windows Form\Задача1 - Windows Form\obj\Debug\Задача1 - Windows Form.pdb

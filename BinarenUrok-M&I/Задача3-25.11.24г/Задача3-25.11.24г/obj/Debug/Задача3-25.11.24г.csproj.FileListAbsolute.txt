@@ -1,0 +1,10 @@
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\bin\Debug\Задача3-25.11.24г.exe.config
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\bin\Debug\Задача3-25.11.24г.exe
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\bin\Debug\Задача3-25.11.24г.pdb
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3-25.11.24г.csproj.AssemblyReference.cache
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3_25._11._24г.Form1.resources
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3_25._11._24г.Properties.Resources.resources
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3-25.11.24г.csproj.GenerateResource.cache
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3-25.11.24г.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3-25.11.24г.exe
+C:\Users\Maria\source\repos\Задача3-25.11.24г\Задача3-25.11.24г\obj\Debug\Задача3-25.11.24г.pdb

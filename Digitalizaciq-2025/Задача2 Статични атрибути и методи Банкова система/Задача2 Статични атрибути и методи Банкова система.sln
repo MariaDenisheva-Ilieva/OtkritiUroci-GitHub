@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача2 Статични атрибути и методи Банкова система", "Задача2 Статични атрибути и методи Банкова система\Задача2 Статични атрибути и методи Банкова система.csproj", "{7D7CCE1F-4870-4EDA-BD91-F03D82241BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7CCE1F-4870-4EDA-BD91-F03D82241BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7CCE1F-4870-4EDA-BD91-F03D82241BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7CCE1F-4870-4EDA-BD91-F03D82241BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7CCE1F-4870-4EDA-BD91-F03D82241BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {907EFEF0-1EE7-4458-8C70-12555BF5294B}
+	EndGlobalSection
+EndGlobal

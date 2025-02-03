@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Игра - Стани богат</h1>
+        
+        <div id="question-container">
+            <p id="question">1 Въпрос: За какво се използва езикът HTML?</p>
+            <ul id="answers-list">
+                <li><button onclick="checkAnswer(1)">•	Създаване на уеб страници</button></li>
+                <li><button onclick="checkAnswer(2)">•	Създаване на презентации</button></li>
+                <li><button onclick="checkAnswer(3)">•	Създаване на видео клипове</button></li>
+                <li><button onclick="checkAnswer(4)">•	Създаване на таблици</button></li>
+            </ul>
+        </div>
+
+        <div id="question-container">
+            <p id="question">2 Въпрос: Кой е основният елемент в HTML?</p>
+            <ul id="answers-list">
+                <li><button onclick="checkAnswer(1)">Отговор 1</button></li>
+                <li><button onclick="checkAnswer(2)">Отговор 2</button></li>
+                <li><button onclick="checkAnswer(3)">Отговор 3</button></li>
+                <li><button onclick="checkAnswer(4)">Отговор 4</button></li>
+            </ul>
+        </div>
+
+        <p>Вашите точки: <span id="score">0</span></p>
+        <button onclick="nextQuestion()">Следващ въпрос</button>
+    </div>
+
+    <script src="stani bogat.html"></script>
+</body>
+</html>

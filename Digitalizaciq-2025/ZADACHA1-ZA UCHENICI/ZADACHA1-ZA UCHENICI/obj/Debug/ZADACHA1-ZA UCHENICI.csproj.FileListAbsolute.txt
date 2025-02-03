@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\bin\Debug\ZADACHA1-ZA UCHENICI.exe.config
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\bin\Debug\ZADACHA1-ZA UCHENICI.exe
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\bin\Debug\ZADACHA1-ZA UCHENICI.pdb
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\obj\Debug\ZADACHA1-ZA UCHENICI.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\obj\Debug\ZADACHA1-ZA UCHENICI.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\obj\Debug\ZADACHA1-ZA UCHENICI.exe
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\ZADACHA1-ZA UCHENICI\ZADACHA1-ZA UCHENICI\obj\Debug\ZADACHA1-ZA UCHENICI.pdb

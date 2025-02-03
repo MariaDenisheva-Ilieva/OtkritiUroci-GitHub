@@ -1,0 +1,316 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(249, 224, 229);
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+    float: left; /* Позиционираме логото в ляво */
+  }
+  
+  .header-text {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .imgIndex{
+    width: 600px; /* Променете размера на изображението според вашите предпочитания */
+    height: 400px; /* Задайте автоматична височина, за да запазите съотношението на страните */
+    margin-right: 20px; /* Задайте разстояние между изображението и текста */
+  }
+  .sectionIndex{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between; /* Разполагаме секцията отляво надясно */
+    align-items: center; /* Центрираме по вертикалата */
+    margin-bottom: 25px;
+  }
+  .pIndex{
+    color: #333;
+    font-size: 28px;
+  }
+  .span{
+    color: #333;
+    font-size: 48px;
+    padding-left: 20px;
+  }
+  .span1{
+    color: #333;
+    font-size: 28px;
+    display: block;
+    text-align: justify;
+    padding-right:20px;
+    padding-left: 20px;
+  }
+  .h1Contacti{
+    color: #444;
+    text-align: center;
+  }
+  .imgKontakti{
+    display: block;
+    width: 80%;
+    margin: auto;
+  }
+  .directors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 2000px; /* Примерна ширина за контейнера */
+    
+}
+
+.directors .column {
+    flex: 0 1 calc(33.33% - 28px); /* Ширина на колоната, вземайки предвид разстоянието между колоните */
+    text-align: justify;
+    margin-bottom: 20px;   
+    padding: 10px;
+}
+.column h3 {
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+}
+
+.column p {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.teachers {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 800px; /* Примерна ширина за контейнера */
+}
+    
+
+.teachers .columnTeacher {
+    flex: 0 1 calc(50% - 20px); /* Ширина на колоната, вземайки предвид разстоянието между колоните */
+    text-align: justify;
+    margin-bottom: 20px;    
+    padding: 10px;
+}
+
+.columnTeacher h3 {
+    color: brown;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.columnTeacher p {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.students {
+    max-width: 2000px; /* Примерна ширина за контейнера */    
+}
+
+
+.students .column1 .studentH3 {
+  padding-left: 40%;   
+   font-size: 32px;
+   padding-top: 20px;
+   margin: 0;
+   color: #333;
+}
+.students .column1 .studentp {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #333;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.column1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1000px; /* Примерна ширина за контейнера */
+    
+}    
+
+.column1 .table {  
+    flex: 0 1 calc(50% - 20px); /* Ширина на колоната, вземайки предвид разстоянието между колоните */
+    text-align: justify;
+    margin-bottom: 20px;    
+    padding: 10px;
+    font-size: 14px;
+}
+.students .column1 h3 {
+    color: brown;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.students .column1 p {
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.tableGrafik{
+    width: 40%;
+  }
+  .tableContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.tableGrafik {
+    width: calc(50% - 20px); /* Ширина на всяка таблица */
+    margin-bottom: 20px;    
+    padding: 10px;
+    font-size: 14px;
+}
+  .grafikH2{
+    text-align: center;
+    color: #333;
+  }
+  .diva{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .butonProject{
+    padding: 10px;
+    background-color:  #444;
+    font-size: 20px;
+    margin: 25px;    
+    border-radius: 15px;
+    color: white; 
+    text-decoration: none;
+    
+  }
+  .sectionproekt1 {
+    padding: 10px;
+    display: flex;
+    justify-content: center; /* Центрираме отляво надясно */
+    align-items: center; /* Центрираме по вертикалата */
+    margin-bottom: 25px;
+}
+.sectionproekt2 {
+  padding: 10px;
+  display: flex;
+  justify-content: center; /* Центрираме отляво надясно */
+  align-items: center; /* Центрираме по вертикалата */
+  
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.spanProekt2{ 
+  font-weight: bold;
+  font-size: 22px;
+}
+  .linkProekt1{
+    padding: 10px;
+    margin: 10px;
+    background-color:  #444;
+    font-size: 18px;    
+    border-radius: 15px;
+    color: white; 
+    text-decoration: none;
+    font-size: 18px;
+  }
+  .proekt1Image{   
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+  }
+  .proekt2p{
+    font-weight: bold;
+    font-size: 22px;
+    color: blue;
+    
+  }
+  .divproekt2{
+    display: block;
+    text-align: center;    
+    font-size: 22px;
+  }
+  .h1Project{
+    text-align: center;
+    color: #333;
+    font-size: 42px;   
+  }
+  .divImageProject{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .imgProject{    
+    margin-right: 20px; /* Задайте разстояние между изображението и текста */
+    display: block;
+    width: 40%;
+    height: 20%;   
+    margin: auto;
+    border: #333;
+    border-style: groove;
+    border-radius: 20px;
+  }
+  .span1p4, .span2p4, .span3p4{
+    font-size: 24px;
+    display: block;
+    text-align: center;
+  }
+  .sectionPrograma{
+    text-align: center;   
+  }
+    
+  footer {
+    background-color: #333;   
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;    
+  }

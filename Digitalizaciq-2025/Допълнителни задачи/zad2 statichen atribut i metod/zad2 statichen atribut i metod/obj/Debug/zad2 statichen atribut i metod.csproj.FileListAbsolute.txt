@@ -1,0 +1,7 @@
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\bin\Debug\zad2 statichen atribut i metod.exe.config
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\bin\Debug\zad2 statichen atribut i metod.exe
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\bin\Debug\zad2 statichen atribut i metod.pdb
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\obj\Debug\zad2 statichen atribut i metod.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\obj\Debug\zad2 statichen atribut i metod.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\obj\Debug\zad2 statichen atribut i metod.exe
+C:\Users\Maria\Desktop\ДИГИТАЛИЗАЦИЯ\Допълнителни задачи\zad2 statichen atribut i metod\zad2 statichen atribut i metod\obj\Debug\zad2 statichen atribut i metod.pdb
